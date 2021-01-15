@@ -1,1 +1,1 @@
-# https://thegr8coder.github.com/Amazon-Shopping
+# https://thegr8coder.github.io/Amazon-Shopping
